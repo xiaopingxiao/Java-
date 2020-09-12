@@ -28,7 +28,7 @@ Java 学习过程包含算法，项目，笔试，面试
 ## 励志经验贴 ：
   https://www.nowcoder.com/discuss/392491    
   包含项目：  商城秒杀，soket编程（多人聊天系统）  慕课有，b站也有，github，马云上也要类似的项目，以及面试问题 soket编程： https://www.imooc.com/learn/1118  
-  其中也有面试官并不喜欢秒杀项目 可以试试  rpc框架，java web框架 等的轻量级实现，github上或者直接买书照着写一个理解透彻都好，秋招基本可以御龙飞行。比那些什么秒杀，SSM商城烂项目不知道高到哪里去了（来自牛客上的建议）  rpc实现框架https://www.imooc.com/coursescore/1158  
+  其中也有面试官并不喜欢秒杀项目 可以试试  rpc框架，java web框架 等的轻量级实现，github上或者直接买书照着写一个理解透彻都好，秋招基本可以御龙飞行。比那些什么秒杀，SSM商城烂项目不知道高到哪里去了（来自牛客上的建议）  rpc实现框架https://www.imooc.com/coursescore/1158   DIY(手写) tomcat https://how2j.cn/k/diytomcat/diytomcat-structure/2496.html#nowhere  
 ## offer收割机经验贴：  
   https://www.nowcoder.com/discuss/471916    
   有计算机网络操作系统较详细的知识，以及指导  
