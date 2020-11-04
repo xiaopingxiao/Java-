@@ -6,8 +6,8 @@ Java 学习过程包含算法，项目，笔试，面试
   
   技术面试必备基础知识：  
     https://github.com/CyC2018/CS-Notes  
-    https://www.nowcoder.com/discuss/471916   
-    https://github.chttps://github.com/Snailclimb/JavaGuide  
+    https://www.nowcoder.com/discuss/471916    
+    https://github.com/Snailclimb/JavaGuide
   ### 其他深入知识
   芋道源码——源码解析和面试复习总结：http://www.iocoder.cn  
   死磕Java并发系列：https://blog.csdn.net/chenssy  
